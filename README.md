@@ -2,7 +2,15 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. I worked on Jungle as a way to simulate the real-world situation of inheriting an existing codebase and being asked to add features and tests to it. Here's a few highlights from the features I added!
 
-## Features
+## Core Features
+!["Home Page"](https://github.com/BipulChau/Jungle/blob/master/images/Home.png?raw=true)
+
+!["My Cart"](https://github.com/BipulChau/Jungle/blob/master/images/My_Cart.png?raw=true)
+
+!["Pay with Card"](https://github.com/BipulChau/Jungle/blob/master/images/Pay_with_card.png?raw=true)
+
+
+
 
 
 ## Additional Steps for Apple M1 Machines
